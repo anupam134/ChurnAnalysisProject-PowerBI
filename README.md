@@ -54,10 +54,6 @@ If you'd like to contribute, feel free to submit a pull request or suggest impro
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
 
-## 📧 Contact
-For any questions or suggestions, feel free to reach out!
 
----
 
-*Created with ❤️ using Power BI.*
 
